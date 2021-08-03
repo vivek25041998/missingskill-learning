@@ -1,6 +1,6 @@
 # missingskill-learning
 ## Content
-### 1. **[Linux]()**
+### 1. **[Linux](Linux.md)**
 - History Of Linux
 - Basic Linux Commands
 - Linux File System
