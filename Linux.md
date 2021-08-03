@@ -9,7 +9,7 @@ In early 1990 Unix is very popular OS. but it use only in a large orgnization be
 - CentOS
 #### 2.Debian
 ## Linux Basic Commmonds 
-1. Mkdir:It is used to make a directory.
+1. mkdir: It is used to make a directory.
 2. cd: It is used to change the directory.
 3. cp: It is used to copy the directory/files.
 4. mv: It is used to move the directory/files.
@@ -27,5 +27,5 @@ In early 1990 Unix is very popular OS. but it use only in a large orgnization be
 16. who are you: it show your login
 17. top: it show the system details.
 18. ssh: it gives the access to remote server.
-19. less: it gives the more data
-20. more: it gives thge less data
+19. less: it gives the more data.
+20. more: it gives thge less data.
