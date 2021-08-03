@@ -12,4 +12,4 @@
 - IP Address
 - Port
 - Web Server
-  hi  
+  Http 
