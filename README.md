@@ -33,6 +33,7 @@
     - Logical
     - Bitwise
     - Relational
+    - Trenary
 - Control Structure
     - if else
     - for
