@@ -7,14 +7,31 @@ javascript is design to interact with element of web pages in browser
 - let
 - const
 # Control Structure
-- if else
-- for
-- switch
-- while 
-- do while
+- if else:
+- for:
+- switch: (better way available in JS)
+- while: (Normal use)
+- do while: (Normal use)
 # Operators
-- Airthmatics
-- Logical
-- Bitwise
-- Relational
-- Trenary
+- Airthmatics: +,-,*,/,%,++,--,>=,<=,==,===
+- Logical:&&,||,!
+- Bitwise:<<,>>,!
+- Relational: <,>,+=
+- Trenary: ?,:
+### Logical Operator
+- &&
+  - true && false = false
+  - false && false = false
+  - false && true = false
+  - true && true = true
+- ||
+  - true || true = true
+  - true || false = true
+  - false || true = true
+  - false || false = false
+# Scope
+- functiional scope:
+- Lacxical/block scope:
+# Data Type
+- primitive
+- non primitive
