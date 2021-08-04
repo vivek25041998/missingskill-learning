@@ -28,4 +28,4 @@ In early 1990 Unix is very popular OS. but it use only in a large orgnization be
 17. top: it show the system details.
 18. ssh: it gives the access to remote server.
 19. less: it gives the more data.
-20. more: it gives thge less data.
+20. more: it gives the less data.
