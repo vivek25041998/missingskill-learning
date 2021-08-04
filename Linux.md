@@ -36,7 +36,7 @@ In early 1990 Unix is very popular OS. but it use only in a large orgnization be
 - cd: it take you to home folder.
 - cd../../..: it take you to three directory back.
 - cd/: take you to root directory 
-## other commonds of ls
+## other commands of ls
 - ls-l: it display all runnung file.
 - ls-a: it display all the files and directory including hidden file
 - ls-h: it show the file size in readable formate
@@ -44,7 +44,7 @@ In early 1990 Unix is very popular OS. but it use only in a large orgnization be
 - ls-R: recursivelly print the all directory
 
 ## Linux File System
-1. /root: the system kernal is store.
+1. /boot: the system kernal is store.
 2. /bin: all user level binary are stored.
 3. /sbin: system binary are stored. 
 4. /home: where user is created.
@@ -54,3 +54,5 @@ In early 1990 Unix is very popular OS. but it use only in a large orgnization be
 8. /etc:system configratin are stored.
 9. /lib:system level libary are stored.
 10. /mount: use for external devices (eg.cd,pendrive)
+11. /dev: device files for devices
+12. /tmp: it stores temporary files
