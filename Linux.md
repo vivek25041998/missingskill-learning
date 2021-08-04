@@ -20,7 +20,7 @@ In early 1990 Unix is very popular OS. but it use only in a large orgnization be
 9. cat: It is used for open a file.
 10. touch: it also use to make a file.
 11. echo: it used for printing something 
-12. ps: it give the list of all running application or files.
+12. ls: it give the list of all running application or files.
 13. if config: It Used for checking the IP address.
 14. ping: it is used to check the internet connectioin. 
 15. who: it shows the how many users have login
