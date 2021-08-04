@@ -67,22 +67,22 @@
     - Constructor Function
     - Object.create()
 - Object Static Method
-  - Object.keys()
-  - Object.values()
+  - object.keys()
+  - object.values()
   - object.assign()
 - Function
-  - Defining and callling Function
+  - Defining And Callling Function
   - Function With Parameter
-  - Two way for declaring function
+  - Two Way For Declaring Function
     - Function Declaration
     - Functioin Assignment
   - Higher Order Function
   - Pure Function
   - Function Short Circuit/Castcading Function
-  - Nested Functin
+  - Nested Function
   - Inline Function
   - ES6 Arrow Function
-- Built-in Function And Object
+- Built-In Function And Object
   - Timer Function
     - setTimeout()
     - setInterval()
