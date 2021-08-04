@@ -10,7 +10,16 @@
 ### 3. **[Basic Building Block Of Web](BasicBuildingBlockOfWeb.md)**
 - Programming Language
 - IP Address
+- IPv4
 - Port
+- Web Port
+- Browser
+  - Postman 
 - Web Server
-  Http 
+- Http Verbs
+- Http Status Code
+- Software License
+- Database
+- Code Reposatry
+- Infrastructure
 ### 4.**[Java Script](JavaScript.md)**
