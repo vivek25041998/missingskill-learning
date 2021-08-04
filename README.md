@@ -24,7 +24,10 @@
 - Infrastructure
 ### 4.**[Java Script](JavaScript.md)**
 - History Of Java Script
-- Variable
+- Variable 
+    - var
+    - let
+    - const 
 - Scope
   - Functional Scope
   - Lexical Scope/Block Scope
@@ -43,10 +46,6 @@
     - Logical
     - Bitwise
     - Relational
- - Variable 
-    - var
-    - let
-    - const 
 - Array
   - Ways To Create Arrays
   - Accessing Array Element
