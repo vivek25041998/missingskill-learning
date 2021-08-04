@@ -57,15 +57,15 @@
    - Ways To Create Arrays
    - Accessing Array Element
    - Length Of Array
-     - .concat
-     - .push
-     - .pop
-     - .shift
-     - .indexof 
-     - .isArray
-     - .foreach
-     - .filter
-     - .map
+     - .concat(Array)
+     - .push(item)
+     - .pop()
+     - .shift()
+     - .indexof()
+     - .isArray()
+     - .foreach()
+     - .filter()
+     - .map()
 - Object
   - Ways To Create Object
     - Object Literal
