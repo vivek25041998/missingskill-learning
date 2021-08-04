@@ -53,18 +53,18 @@
     - Object
     - Array  
  - Array
-  - Ways To Create Arrays
-  - Accessing Array Element
-  - Length Of Array
-    - .concat
-    - .push
-    - .pop
-    - .shift
-    - .indexof
-    - .isArray
-    - .foreach
-    - .filter
-    - .map
+   - Ways To Create Arrays
+   - Accessing Array Element
+   - Length Of Array
+     - .concat
+     - .push
+     - .pop
+     - .shift
+     - .indexof 
+     - .isArray
+     - .foreach
+     - .filter
+     - .map
 - Object
   - Ways To Create Object
     - Object Literal
