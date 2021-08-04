@@ -10,7 +10,8 @@ there are many programming language are available.
 IP Address are unique address that every system have.in any application we can not work without ip address.there are two type of ip address are available.
 - IPv4
 - IPv6
-### IPv4: limitation of ip.
+### IPv4: 
+limitation of ip.
 #### Classification of IPv4
 - Class A: 0-127 (0000-127.256.256.256) reserve for the local system.
 - Class B: 128-191 (10-10.256) it is use for internet.
