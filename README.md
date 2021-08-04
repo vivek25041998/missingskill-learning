@@ -5,7 +5,7 @@
 - Basic Linux Commands
 - Linux File System
 ### 2. **[Git](Git.md)**
-- What Is A Git
+- Introduction Of Git
 - Git Commands
 ### 3. **[Basic Building Block Of Web](BasicBuildingBlockOfWeb.md)**
 - Programming Language
