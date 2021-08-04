@@ -35,17 +35,17 @@
     - Boolean
     - Undefined
     - Null
-  copy by and pass by value
+copy by and pass by value
   - Non Primitive Type
     - Object
     - Array  
- copy by and pass by refrence
+copy by and pass by refrence
  - operator
-  - Airthmetic 
-  - Logical
-  - Bitwise
-  - Relational
+    - Airthmetic 
+    - Logical
+    - Bitwise
+    - Relational
  - variable 
-  - var
-  - let
-  - const  
+    - var
+    - let
+    - const  
