@@ -4,7 +4,6 @@ Git is created by Linus Torvalds in 2005.Git is free and open source distributed
   - GitLab
 # Git Commands
 - git init.: create empty reposatry
-- git add file name /./*
 - git add.: to add modified
 - git log:history of status
 - git status:show the current status
