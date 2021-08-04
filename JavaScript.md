@@ -3,9 +3,25 @@ In 1995 javascript was created by Netscape devloper name Breandan Eich.first it 
 ## javascript:
 javascript is design to interact with element of web pages in browser
 # Variable
-- var
+javascript is a dynamically type language.variable are container that store data.
+- var:
+  - it can be redeclare
+  - it can be reinitilized
+  - it can be get hoisted
+  - functional scope
+  - ES5 
 - let
+  - it can not redeclare
+  - it can be reinitilized
+  - it can not get hoisted 
+  - laxical scope
+  - ES6
 - const
+  - it can not redeclared
+  - it can not reinitilized
+  - it can not get hoisted
+  - laxical scope 
+  - ES6
 # Control Structure
 - if else:
 - for:
@@ -18,20 +34,41 @@ javascript is design to interact with element of web pages in browser
 - Bitwise:<<,>>,!
 - Relational: <,>,+=
 - Trenary: ?,:
+### Airthmatic Operator
+- + : it is use for add and concat both.
+- == : it is only check value of number not datatype
 ### Logical Operator
-- &&
+- && : evaluated untill truthy value true and stop when falsy value false is encountred
   - true && false = false
   - false && false = false
   - false && true = false
   - true && true = true
-- ||
+- || : evaluated untill falsy value false and stop when truthy value true is encountred
   - true || true = true
   - true || false = true
   - false || true = true
-  - false || false = false
+  - false || false = false 
 # Scope
-- functiional scope:
-- Lacxical/block scope:
+- functiional scope: each program can be called as functional scope.each program have their own functional scope
+  - Global scope : these are define outside of function
+  - local scope : these are define inside function
+- Lacxical/block scope: start and end with curly bracket ({}). 
 # Data Type
-- primitive
-- non primitive
+- primitive : these are pass or copy by value.it contain single type value
+  - string: it is enclose with queats.
+  - number
+  -  boolean : two value true or false
+  -  undefined : value is not assign
+  -  null : it has nothing
+- non primitive : these are pass or copy by refrence.it can cantain multiple value
+  - object : key value pair
+  - array : value,value
+### Arrays
+- arrays are special type of object.
+- some array have diffrent type of value.
+#### ways to declare array 
+var a = [1,2,3,4]
+#### length of array : length of array is last index + 1
+#### .forEach() : loop over every element in arrayand does not return undefined
+#### .filter() : iterats all item based on condition and return same length or less
+#### .map() : return new array of same length
