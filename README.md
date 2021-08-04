@@ -24,3 +24,28 @@
 - Infrastructure
 ### 4.**[Java Script](JavaScript.md)**
 - History Of Java Script
+- Variable
+- Scope
+  - Functional Scope
+  - Lexical Scope/Block Scope
+- Datatype
+  - Primitive Type
+    - String
+    - Number
+    - Boolean
+    - Undefined
+    - Null
+  copy by and pass by value
+  - Non Primitive Type
+    - Object
+    - Array  
+ copy by and pass by refrence
+ - operator
+  - Airthmetic 
+  - Logical
+  - Bitwise
+  - Relational
+ - variable 
+  - var
+  - let
+  - const  
