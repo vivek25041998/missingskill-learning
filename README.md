@@ -46,4 +46,50 @@
  - Variable 
     - var
     - let
-    - const  
+    - const 
+- Array
+  - Ways To Create Arrays
+  - Accessing Array Element
+  - Length Of Array
+    - .concat
+    - .push
+    - .pop
+    - .shift
+    - .indexof
+    - .isArray
+    - .foreach
+    - .filter
+    - .map
+- Object
+  - Ways To Create Object
+    - Object Literal
+    - Object Constructor
+    - Constructor Function
+    - Object.create()
+- Object Static Method
+  - Object.keys()
+  - Object.values()
+  - object.assign()
+- Function
+  - Defining and callling Function
+  - Function With Parameter
+  - Two way for declaring function
+    - Function Declaration
+    - Functioin Assignment
+  - Higher Order Function
+  - Pure Function
+  - Function Short Circuit/Castcading Function
+  - Nested Functin
+  - Inline Function
+  - ES6 Arrow Function
+- Built-in Function And Object
+  - Timer Function
+    - setTimeout()
+    - setInterval()
+  - Parse Function
+    - parselnt()
+    - parseFloat()
+  - JSON Methods
+    - .stringify()
+    - .parse('{}')
+    - .stringify([]) and .parse('[]'                     
