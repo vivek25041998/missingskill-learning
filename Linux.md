@@ -32,3 +32,13 @@ In early 1990 Unix is very popular OS. but it use only in a large orgnization be
 21. clear: it used to clear the terminal.
 
 ## Linux File System
+1. /root: the system kernal is store.
+2. /bin: all user level binary are stored.
+3. /sbin: system binary are stored. 
+4. /home: where user is created.
+5. /var: variable files are stored.
+6. /mnt: user system resources. 
+7. /root: root folder where system admin create multiple root.
+8. /etc:system configratin are stored.
+9. /lib:system level libary are stored.
+10. /mount: use for external devices (eg.cd,pendrive)
