@@ -40,12 +40,12 @@ copy by and pass by value
     - Object
     - Array  
 copy by and pass by refrence
- - operator
+ - Operator
     - Airthmetic 
     - Logical
     - Bitwise
     - Relational
- - variable 
+ - Variable 
     - var
     - let
     - const  
