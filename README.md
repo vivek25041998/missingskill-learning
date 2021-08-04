@@ -14,7 +14,7 @@
 - Port
 - Web Port
 - Browser
-  - Postman 
+- Postman 
 - Web Server
 - Http Verbs
 - Http Status Code
