@@ -30,6 +30,18 @@ In early 1990 Unix is very popular OS. but it use only in a large orgnization be
 19. less: it gives the more data.
 20. more: it gives the less data.
 21. clear: it used to clear the terminal.
+## other commands of cd
+- cd..: it take you to previous directory/files.
+- cd~: it take you to user home directory.
+- cd: it take you to home folder.
+- cd../../..: it take you to three directory back.
+- cd/: take you to root directory 
+## other commonds of ls
+- ls-l: it display all runnung file.
+- ls-a: it display all the files and directory including hidden file
+- ls-h: it show the file size in readable formate
+- ls-r: it display the list in reverse order
+- ls-R: recursivelly print the all directory
 
 ## Linux File System
 1. /root: the system kernal is store.
