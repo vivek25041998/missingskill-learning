@@ -63,7 +63,7 @@ javascript is a dynamically type language.variable are container that store data
 - non primitive : these are pass or copy by refrence.it can cantain multiple value
   - object : key value pair
   - array : value,value
-### Arrays
+# Arrays
 - arrays are special type of object.
 - some array have diffrent type of value.
 #### ways to declare array 
@@ -72,3 +72,43 @@ var a = [1,2,3,4]
 #### .forEach() : loop over every element in arrayand does not return undefined
 #### .filter() : iterats all item based on condition and return same length or less
 #### .map() : return new array of same length
+## Object
+- it has key value pair
+- object literal most used
+- it uses bracket notation
+## object static methods
+- object.keyt() : return array with all key of object
+- object.values() : return array with all the value of object.
+- object.assign() : create copy of all primitive but non primitive are still pass by reference
+# Function 
+- in javascript everything is an object.function are also an object.
+- anything in function that can be access only whithin a function
+### two ways for declaring a function
+1. function declaration : always start with function keyword,define a function with a name
+2. function assignment: assignment doen not hoisted varible declaration get hoisted.
+- function are first class citizen.it can do anything
+  - it can be object
+  - can be value in array
+#### higher order function
+- function take function as parameter and return function.
+#### pure function
+- we do not update value of input parameter within a function.
+#### function short circuit
+- whenever function return a function we can invoke the return function using () within assign to variable.
+#### nested function
+- function within function is know ans nested function.
+#### inline function
+- if we do not want to expose function expression and anonimous funtion then we use inline function.
+#### ES6-Arrow Function
+- it does not have its own context
+- function assignment does not get hoisted.
+## Built-In function
+#### timer function
+- setTimeout() : delay code by given time.
+#### parse method
+- convert string to number primitive type and return it.
+## JSON Built-in object
+- object as data us whithin program
+### JSON Method
+- .stringify({}) : convrt object to json string,used when we want to send outside data
+- .parse() : convrt json to object string,used when we get data from outside
