@@ -28,6 +28,17 @@
     - var
     - let
     - const 
+- Operator
+    - Airthmetic 
+    - Logical
+    - Bitwise
+    - Relational
+- Control Structure
+    - if eles
+    - for
+    - switch
+    - while
+    - do while 
 - Scope
   - Functional Scope
   - Lexical Scope/Block Scope
@@ -41,12 +52,7 @@
   - Non Primitive Type
     - Object
     - Array  
- - Operator
-    - Airthmetic 
-    - Logical
-    - Bitwise
-    - Relational
-- Array
+ - Array
   - Ways To Create Arrays
   - Accessing Array Element
   - Length Of Array
