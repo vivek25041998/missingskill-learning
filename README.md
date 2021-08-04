@@ -34,7 +34,7 @@
     - Bitwise
     - Relational
 - Control Structure
-    - if eles
+    - if else
     - for
     - switch
     - while
