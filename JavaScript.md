@@ -66,23 +66,28 @@ javascript is a dynamically type language.variable are container that store data
 # Arrays
 - arrays are special type of object.
 - some array have diffrent type of value.
+  - syntax : var fruit=['mango','apple']
 #### Ways To Declare Array 
 var a = [1,2,3,4]
 #### Length Of Array : length of array is last index + 1
-#### .forEach() : loop over every element in arrayand does not return undefined
-#### .filter() : iterats all item based on condition and return same length or less
-#### .map() : return new array of same length
+## Array Methods
+- .forEach() : loop over every element in arrayand does not return undefined
+- .filter() : iterats all item based on condition and return same length or less
+- .map() : return new array of same length
 ## Object
 - it has key value pair
 - object literal most used
 - it uses bracket notation
+  - syntax : var fullname = {firstname:"vivek",lastname:"chaudhary"} 
 ## Object Static Methods
-- object.keyt() : return array with all key of object
+- object.key() : return array with all key of object
 - object.values() : return array with all the value of object.
 - object.assign() : create copy of all primitive but non primitive are still pass by reference
-# Function 
+# Function
+- function is block of code that use perform a particular opration.
 - in javascript everything is an object.function are also an object.
-- anything in function that can be access only whithin a function
+- anything in function that can be access only whithin a function.
+  - Syntax : function name(paramer) {} 
 ## Two Ways For Declaring A Function
 1. function declaration : always start with function keyword,define a function with a name
 2. function assignment: assignment doen not hoisted varible declaration get hoisted.
