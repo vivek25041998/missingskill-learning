@@ -107,8 +107,3 @@ var a = [1,2,3,4]
 - setTimeout() : delay code by given time.
 ### Parse Method
 - convert string to number primitive type and return it.
-## JSON Built-In Object
-- object as data us whithin program
-### JSON Method
-- .stringify({}) : convrt object to json string,used when we want to send outside data
-- .parse() : convrt json to object string,used when we get data from outside
