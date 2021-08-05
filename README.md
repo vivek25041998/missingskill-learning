@@ -80,6 +80,3 @@
   - Timer Function
     - setTimeout()
     - setInterval()
-  - JSON Methods
-    - .stringify()
-    - .parse('{}')
