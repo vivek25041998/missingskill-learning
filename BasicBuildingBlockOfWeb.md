@@ -12,7 +12,7 @@ IP Address are unique address that every system have.in any application we can n
 - IPv6
 ### IPv4: 
 limitation of ip.
-#### Classification of IPv4
+#### Classification Of IPv4
 - Class A: 0-127 (0000-127.256.256.256) reserve for the local system.
 - Class B: 128-191 (10-10.256) it is use for internet.
 - Class C: 192-223 (192.168) it is for local network id.
@@ -24,7 +24,7 @@ Range:
 - 0-1023: Reserved port use by system.
 - 1024-49150: application port
 - 49151-65535: open port
-# web port
+# Web Port
 any web applicatin that we run on server that uses a port (80,443)
 - 80: use for htttp
 - 443: use for https
@@ -36,7 +36,7 @@ any web applicatin that we run on server that uses a port (80,443)
 for backend devlopment
 ### Code Editor
 vs code
-### web server
+### Web Server
 apche 2.O
 where web aplication is hosted
 ### Http Verbs
