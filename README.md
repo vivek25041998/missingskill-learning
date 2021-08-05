@@ -56,13 +56,13 @@
  - Array
    - Ways To Create Arrays
    - Length Of Array
-   - Array Function
+   - Array Methods
      - .foreach()
      - .filter()
      - .map()
 - Object
 - Object Static Method
-- Object Function
+- Object Methods
   - object.keys()
   - object.values()
   - object.assign()
