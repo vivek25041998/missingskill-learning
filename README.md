@@ -55,7 +55,7 @@
     - Array  
  - Array
    - Ways To Create Arrays
-   - Length Of Array
+   - Array Function
      - .foreach()
      - .filter()
      - .map()
@@ -65,7 +65,6 @@
   - object.values()
   - object.assign()
 - Function
-  - Defining And Callling Function
   - Two Way For Declaring Function
     - Function Declaration
     - Functioin Assignment
