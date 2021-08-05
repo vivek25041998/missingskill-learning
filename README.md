@@ -55,12 +55,14 @@
     - Array  
  - Array
    - Ways To Create Arrays
+   - Length Of Array
    - Array Function
      - .foreach()
      - .filter()
      - .map()
 - Object
 - Object Static Method
+- Object Function
   - object.keys()
   - object.values()
   - object.assign()
