@@ -83,29 +83,29 @@ var a = [1,2,3,4]
 # Function 
 - in javascript everything is an object.function are also an object.
 - anything in function that can be access only whithin a function
-### Two Ways For Declaring A Function
+## Two Ways For Declaring A Function
 1. function declaration : always start with function keyword,define a function with a name
 2. function assignment: assignment doen not hoisted varible declaration get hoisted.
 - function are first class citizen.it can do anything
   - it can be object
   - can be value in array
-#### Higher Order Function
+### Higher Order Function
 - function take function as parameter and return function.
-#### Pure Function
+### Pure Function
 - we do not update value of input parameter within a function.
-#### Function Short Circuit
+### Function Short Circuit
 - whenever function return a function we can invoke the return function using () within assign to variable.
-#### Nested Function
+### Nested Function
 - function within function is know ans nested function.
-#### Inline Function
+### Inline Function
 - if we do not want to expose function expression and anonimous funtion then we use inline function.
-#### ES6-Arrow Function
+### ES6-Arrow Function
 - it does not have its own context
 - function assignment does not get hoisted.
 ## Built-In Function
-#### Timer Function
+### Timer Function
 - setTimeout() : delay code by given time.
-#### Parse Method
+### Parse Method
 - convert string to number primitive type and return it.
 ## JSON Built-In Object
 - object as data us whithin program
