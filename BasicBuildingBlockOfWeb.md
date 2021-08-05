@@ -3,8 +3,8 @@ there are many programming language are available.
 - Java Script
 - Python
 - C#
-- php
-- java
+- Php
+- Java
 - R
 # IP Address
 IP Address are unique address that every system have.in any application we can not work without ip address.there are two type of ip address are available.
